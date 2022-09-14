@@ -1,4 +1,4 @@
-# -ft_linux
+# ft_linux
 Linux from Scratch
 
 https://www.linuxfromscratch.org/lfs/view/stable/index.html
