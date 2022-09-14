@@ -12,3 +12,7 @@ https://pubs.opengroup.org/onlinepubs/9699919799/
 https://refspecs.linuxfoundation.org/lsb.shtm
 
 http://fr.linuxfromscratch.org/
+
+http://tinycorelinux.net/welcome.html
+
+http://www.tinycorelinux.net/5.x/x86/release/src/toolchain/compile_clfs_x86_32_tc5
